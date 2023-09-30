@@ -9,6 +9,7 @@ Telos Tech Club Class on Network Security
   - Hypertext Transfer Protocol Secure (**HTTPS**) `443`
   - Secure Shell (**SSH**) - `22`
   - Remote Desktop Protocol (**RDP**) - `3389`
+- Accounts: User versus Administrator
 
 ### Network Topology
 - Routers/Modems
@@ -16,10 +17,26 @@ Telos Tech Club Class on Network Security
 
 ## Hacking
 - Blackhat / Whitehat / Greyhat
+- What is OK to hack?
 - Password Attacks
-  - Brute Force
   - Dictionary
+  - Brute Force
   - Rainbow tables
+
+### Tools
+- Kali Linux - an OS with a lot of hacking tools already loaded
+  - `chntpw` : reset local Windows passwords
+  - `aircrack-ng` : crack WiFi passwords
+  - `nmap` : scan for network devices and computers
+- Metasploit
+
+### Prevention
+- HoneyPot (give a demo)
+- Logging
+- Password attempts and backoffs
+
+## More advanced?
+- Bug / Exploit
 
 ## Demonstration ideas
 Show how computers store an encrypted password
