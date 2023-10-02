@@ -12,16 +12,31 @@ Telos Tech Club Class on Network Security
 - Accounts: User versus Administrator
 
 ### Network Topology
-- Routers/Modems
-- Firewalls (Hardware vs Software)
+- Wide Area Network (**WAN**) vs Local Area Network (**LAN**) boundaries
+- Hardware
+  - Routers/Modems
+  - Firewalls (Hardware vs Software)
+  - Switches
 
 ## Hacking
-- Blackhat / Whitehat / Greyhat
 - What is OK to hack?
-- Password Attacks
+- Types of hackers
+  - **Black hat** - accesses systems illegally, with malicious intent, and often for personal gain
+  - **White hat** - has permission of the network owner, accesses legally and ethically. Example: penetration tester paid and authorized to conduct a security audit
+  - **Gray hat** - may sometimes violate laws or usual ethical standards, but they do not have the malicious intent typical of a black hat hacker
+
+### Types of attacks
+- Password Attacks - used to access a computer
   - Dictionary
   - Brute Force
-  - Rainbow tables
+- Denial of Service (DOS) and Distributed (DDOS) - used to deny access a computer
+
+### Payloads - what a hacker will install
+Malware (Malicious Software)
+- Virus: May delete files and attempt to infect other computers on network
+- Ransomware: Makes files on computer inaccessible until a ransom is paid and files unlocked
+- Crypto mining: Turns infected computer into a crypto miner
+- Botnet
 
 ### Tools
 - Kali Linux - an OS with a lot of hacking tools already loaded
