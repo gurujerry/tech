@@ -27,8 +27,9 @@ Telos Tech Club Class on Network Security
   - **Gray hat** - may sometimes violate laws or usual ethical standards, but they do not have the malicious intent typical of a black hat hacker
 
 ### Types of attacks
+- DNS Hijacking: [example](./example1_dns/)
 - Password Attacks - used to access a computer
-  - Dictionary
+  - Dictionary: [example](./example2_dictionary/)
   - Brute Force
 - Denial of Service (DOS) and Distributed (DDOS) - used to deny access a computer
 
