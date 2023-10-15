@@ -1,18 +1,19 @@
 Telos Tech Club Class on Network Security
 
 ## Network Components
-- Internet Protocol address (**IP address**)
-  - Dynamic Host Configuration Protocol (**DHCP**)
+- **MAC address** (Media Access Control address) 
+- **IP address** (Internet Protocol address)
+- **DHCP** (Dynamic Host Configuration Protocol)
 - Common Ports
-  - Domain Name System (**DNS**) `53`
-  - Hypertext Transfer Protocol (**HTTP**) `80`
-  - Hypertext Transfer Protocol Secure (**HTTPS**) `443`
-  - Secure Shell (**SSH**) - `22`
-  - Remote Desktop Protocol (**RDP**) - `3389`
+  - **DNS** (Domain Name System) `53`
+  - **HTTP** (Hypertext Transfer Protocol) `80`
+  - **HTTPS** (Hypertext Transfer Protocol Secure) `443`
+  - **SSH** (Secure Shell) - `22`
+  - **RDP** (Remote Desktop Protocol) - `3389`
 - Accounts: User versus Administrator
 
 ### Network Topology
-- Wide Area Network (**WAN**) vs Local Area Network (**LAN**) boundaries
+- **WAN** (Wide Area Network) vs **LAN** (Local Area Network) boundaries
 - Hardware
   - Routers/Modems
   - Firewalls (Hardware vs Software)
