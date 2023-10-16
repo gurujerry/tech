@@ -65,7 +65,7 @@ Packet Youtube video
 
 ## Launch a Python container
 ```bash
-docker run -it --rm python:3.9.5 bash
+docker run -it --rm -v $(pwd)/example2_dictionary/passwords.txt:/passwords.txt:ro python:3.9.5 bash
 pip3 install paramiko
-
+python3
 ```
