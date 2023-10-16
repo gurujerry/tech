@@ -62,3 +62,10 @@ Show how computers store an encrypted password
 
 ## Interactive ideas
 Packet Youtube video
+
+## Launch a Python container
+```bash
+docker run -it --rm python:3.9.5 bash
+pip3 install paramiko
+
+```
