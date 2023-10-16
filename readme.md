@@ -30,7 +30,7 @@ Telos Tech Club Class on Network Security
 - DNS Hijacking: [example](./example1_dns/)
 - Password Attacks - used to access a computer
   - Dictionary: [example](./example2_dictionary/)
-  - Brute Force
+  - Brute Force: [example](./example3_bruteforce/)
 - Denial of Service (DOS) and Distributed (DDOS) - used to deny access a computer
 
 ### Payloads - what a hacker will install
